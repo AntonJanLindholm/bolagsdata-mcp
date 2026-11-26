@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bolagsdata": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": ["src/BolagsdataMcp/bin/Release/net10.0/BolagsdataMcp.dll"]
+    }
+  }
+}
